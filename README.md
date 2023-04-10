@@ -1,6 +1,6 @@
 # To Do List
-Dark Mode 기능이 있는 To Do List Toy Project
-With React, Post CSS
+Dark Mode 기능이 있는 To Do List Toy Project.\
+with React, Post CSS
 
 
 
